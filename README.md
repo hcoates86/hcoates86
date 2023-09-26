@@ -1,4 +1,6 @@
-### Hi there 👋
+### I’ve always needed a creative outlet, but after a decade of selling my writing it was about time for me to settle down, and I decided to seek out a higher income job. I mentioned this to my brother, and with him knowing my interest in computers and being a programmer himself, suggested I join App Academy. 
+
+### Coding was creative enough to satisfy my needs, and the prospective income was appealing, so now here I am, knowing JavaScript and Python, working in the backend with Express and Flask, and continuing to learn and expand.
 
 <!--
 **hcoates86/hcoates86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
